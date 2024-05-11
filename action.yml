@@ -1,5 +1,5 @@
 name: "Saludar"
 description: "Esta accion saluda al usuario"
 runs:
-  using: "node18"
+  using: "node12"
   main: "dist/index.js"
